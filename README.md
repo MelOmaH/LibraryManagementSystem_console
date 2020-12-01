@@ -1,6 +1,6 @@
-#Library Management System (console version)
+#Library Management System (console version)<br>
 
-###What is it?
+###What is it?<br>
 The Library Management System is a system where You can: <br>
 - add or remove a book;
 - buy a book from the list of offered;
@@ -8,15 +8,16 @@ The Library Management System is a system where You can: <br>
 - see user statistics (number of books purchased, registration date);
 - ask the library to order this book in the range.<br>
 
-###What You Need
+###What You Need<br>
 + JDK (Java Development Kit);<br>
 + Maven;<br>
 + You can also import the code straight into your IDE and start.<br>
 
 ***If what - you can dowload*** <br>
 ***[JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)*** <br>
-***[Maven](https://apache.ip-connect.vn.ua/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip)*** 
-###Getting Start
+***[Maven](https://apache.ip-connect.vn.ua/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip)*** <br>
+
+###Getting Start<br>
 To install the project, please follow next recommendation:<br>
 
 Make git clone by this command:
